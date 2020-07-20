@@ -20,7 +20,7 @@ weatherForm.addEventListener('submit', (event) => {
             console.log(data.error);
         } else {
             console.log(data);
-        }
+            }
         })
     })
 })
