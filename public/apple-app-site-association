@@ -1,16 +1,16 @@
 {
-    "applinks": {
-      "apps": [],
-      "details": [
-        {
-          "appID": "6ZK56N8PKJ.lenskart.Appcliptest",
-          "paths": [
-            "*"
-          ]
-        }
-      ]
-    },
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "6ZK56N8PKJ.com.valyoo.lenskart",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  },
     "appclips":{
-        "apps" : ["6ZK56N8PKJ.lenskart.Appcliptest.Clip"]
+        "apps" : ["6ZK56N8PKJ.com.valyoo.lenskart.Clip"]
     }
   }
